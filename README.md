@@ -78,7 +78,6 @@ Flutter Minimal Website is licensed under Zero-Clause BSD and released as Emailw
     - [ ] Popup
     - [ ] Newsletter box
 - [ ] Pages
-    - [ ] 404
     - [ ] Sitemap
     - [ ] Search
 
